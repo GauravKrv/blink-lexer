@@ -4,6 +4,7 @@ export var TokenType = {
     Abstract: 'abstract',
     As: 'as',
     Class: 'class',
+    Const: 'const',
     Else: 'else',
     Extends: 'extends',
     False: 'false',
